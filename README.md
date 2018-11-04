@@ -1,0 +1,15 @@
+# Project_TextData-Analysis-Processing
+
+![1](https://user-images.githubusercontent.com/43980901/47961026-98c24080-e046-11e8-8082-dd0979511013.JPG)
+![2](https://user-images.githubusercontent.com/43980901/47961027-98c24080-e046-11e8-976b-7a08a9b9184f.JPG)
+![3](https://user-images.githubusercontent.com/43980901/47961028-98c24080-e046-11e8-9f39-d508a6310a04.JPG)
+![4](https://user-images.githubusercontent.com/43980901/47961029-995ad700-e046-11e8-8b24-6a8b6ed48057.JPG)
+![5](https://user-images.githubusercontent.com/43980901/47961030-995ad700-e046-11e8-9878-f36d595ef198.JPG)
+![6](https://user-images.githubusercontent.com/43980901/47961031-995ad700-e046-11e8-885d-8ed43f543fed.JPG)
+![7](https://user-images.githubusercontent.com/43980901/47961032-99f36d80-e046-11e8-832b-987073ebe837.JPG)
+![8](https://user-images.githubusercontent.com/43980901/47961033-99f36d80-e046-11e8-928f-f199d54098fd.JPG)
+![9](https://user-images.githubusercontent.com/43980901/47961034-99f36d80-e046-11e8-99b4-93a12a6a30e1.JPG)
+![10](https://user-images.githubusercontent.com/43980901/47961035-99f36d80-e046-11e8-90b3-c5909ccd2f58.JPG)
+![11](https://user-images.githubusercontent.com/43980901/47961036-9a8c0400-e046-11e8-92ba-f04dae0a940e.JPG)
+![12](https://user-images.githubusercontent.com/43980901/47961037-9a8c0400-e046-11e8-804f-9316c33e2504.JPG)
+![13](https://user-images.githubusercontent.com/43980901/47961038-9a8c0400-e046-11e8-8ddd-ac91ac44d0a6.JPG)
